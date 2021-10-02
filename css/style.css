@@ -949,8 +949,19 @@ footer img {
   margin-bottom: 30px;
 }
 
+.service-box img {
+  height: 200px;
+  width: 200px;
+}
+
 .service-box h3 {
   margin-top: 0;
+}
+
+.service-box h3 img {
+  margin-top: 0;
+  height: 200px;
+  width: 200px;
 }
 
 .img {
