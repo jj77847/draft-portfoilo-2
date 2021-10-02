@@ -953,6 +953,11 @@ footer img {
   margin-top: 0;
 }
 
+.img {
+  height: 200px;
+  width: 200px;
+}
+
 /* contact page
 ==================================================*/
 
